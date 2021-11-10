@@ -1,3 +1,6 @@
-h1 {
-  color: red;
+/* Background Image */
+body {
+  background-image: url("images/background.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
 }
