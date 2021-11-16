@@ -1,2 +1,2 @@
-# coming-soon-website
- Landing Page for a new product
+#ReadMe
+Welcome, this project is just for practice and is made using very simple HTML and CSS
